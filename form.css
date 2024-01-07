@@ -1,0 +1,59 @@
+label{
+    font-weight: 900;
+    font-size: 20px;
+}
+
+.rath_font{
+	 font-size: 20px;
+}
+	
+.header{
+    background-color: #ADD8E6;
+}
+#title{
+    text-align: center;
+    color: brown;
+}
+#description{
+    font-size: 25px;
+	background-color: #ADD8E6;
+}
+#food{
+    font-size: 20px;
+    color: brown;
+}
+button{
+    border-radius: 13px;
+    background-color: white;
+    color: black;
+    font-family: 'Roboto Mono', monospace;
+    width: 100px;
+    height: 40px;
+}
+button:hover{
+    cursor: pointer;
+}
+.genderName{
+    font-size: 18px;
+}
+
+table,tr,th,td{
+   border: 1px solid burlywood;
+}
+
+.rath_table,tr,td{
+	border: none;
+	
+}
+
+th{
+    width: 200px;
+    height: 30px;
+    background-color: bisque;
+}
+b{
+    font-size: 20px;
+}
+form{
+    background-color: #ADD8E6;
+}
